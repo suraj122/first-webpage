@@ -1,0 +1,16 @@
+body {
+  background-color: cyan;
+}
+
+h1 {
+  font-size: 64px;
+  color: blueviolet;
+}
+.text {
+  font-size: 36px;
+  color: blue;
+}
+#div {
+  font-size: 44px;
+  color: brown;
+}
